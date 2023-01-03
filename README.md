@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asxpi or just Sergei.
 - 💞️ I’m Telecommunications Engineer in Narayana OÜ.
 - 🌱 I’m currently trying myself as HR.
-- 👀 Looking for developers to contibute in open-source project for bounty.
+- 👀 Looking for developers to contribute in open-source project for a bounty.
 - 📫 How to reach me: asxpi@narayana.im (both email and JID), Telegram: @asxpi 
 - ✨ You can write to me on English, Russian or Estonian.
 - 💙 btw i use arch
